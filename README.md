@@ -23,8 +23,20 @@ checks usernames available for TikTok
 
 # For inquiries and assistance:
 instagram:
+
+
 https://www.instagram.com/m.1jv/
+
+
 tellonym:
+
+
 https://tellonym.me/_2ed
+
+
 tiktok:
+
+
 https://vm.tiktok.com/ZSJMeo4Fo/
+
+
