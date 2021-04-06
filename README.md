@@ -6,7 +6,7 @@ checks usernames available for TikTok
 ![M](https://user-images.githubusercontent.com/81895265/113710689-15b0e300-96f5-11eb-8ad8-8b6200e5d7b5.jpg)
 
 # First you need to extract the session ID :
-[
+`
 1- Go to TikTok Web
 
 2- Log in to your account
